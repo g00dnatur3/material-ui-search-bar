@@ -16,6 +16,7 @@ const styles = {
     justifyContent: 'space-between'
   },
   iconButton: {
+    marginTop: -4,
     opacity: 0.54,
     transform: 'scale(1, 1)',
     transition: 'transform 200ms cubic-bezier(0.4, 0.0, 0.2, 1)'
